@@ -6,15 +6,10 @@ categories: jekyll update
 ---
 
 
-This is my cool first Jekyll blog post! w00t w00t 
+I’ve done a ton of reading, but as I’m a hands on learner, I know that I just need to keep trying to make stuff and see what happens. Praise the lord for Google as that’s been a lifesaver for when I need to figure something (everything) out every other second. (:
 
 
 
-
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
-
-Jekyll also offers powerful support for code snippets:
 
 {% highlight ruby %}
 def print_hi(name)
