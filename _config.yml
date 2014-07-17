@@ -1,0 +1,12 @@
+# Site settings
+title: Kim's Jekyll Blog
+email: kimkaralekas@gmail.com
+description: "This is my awesome description for my awesome site."
+baseurl: ""
+url: "http://yourdomain.com"
+twitter_username: kimkaralekas
+github_username:  kimkaralekas
+
+# Build settings
+markdown: kramdown
+permalink: pretty
