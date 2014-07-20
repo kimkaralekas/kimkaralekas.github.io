@@ -18,8 +18,23 @@ body {
 
 h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; }
 
-a         { color: #2a7ae2; text-decoration: none; }
-a:visited { color: #7C827C; }
+a:link    {
+  color:#403d53;
+  text-decoration: none;
+}
+
+a:visited {
+  color:#403d53;
+  text-decoration: none;
+}
+
+a:hover   {
+  color:red;
+}
+
+a:active  {
+  color:yellow;
+}
 
 /* Utility */
 
