@@ -19,7 +19,7 @@ body {
 h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; }
 
 a:link    {
-  color:#403d53;
+  color:#47445a;
   text-decoration: none;
 }
 
@@ -29,7 +29,7 @@ a:visited {
 }
 
 a:hover   {
-  color:red;
+  color:#01DFD7;
 }
 
 a:active  {
