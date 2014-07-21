@@ -3,14 +3,7 @@ layout: default
 ---
 <html>
   <body>
-    <div class="home">
-
-        <ul id="navigation">
-          <li class="home"><a title="Home"></a></li>
-          <li class="blog"><a title="Blog"></a></li>
-          <li class="about"><a title="About"></a></li>
-          <li class="contact"><a title="Contact"></a></li>
-        </ul>
+ 
 
 
 
@@ -23,17 +16,20 @@ layout: default
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         <p>{{ post.excerpt }}</p>
       </li>
+
+
+
     
     {% endfor %}
   </ul>
-</div>
 
-
-
-
-
-      </body>
-
-
-
-    </html>
+       <div class="sidebar">
+            <li>Home</li>
+            <li>Blog</li>
+            <li>About</li>
+            <li>Contact</li>
+          </ul>
+      </div>
+    </div>
+  </body>
+</html>
