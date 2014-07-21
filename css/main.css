@@ -123,13 +123,19 @@ ul#navigation li a {
 }
 
 ul#navigation .home a{
-    background-image: url(http://www.placehold.it/59X16);
+    background-image: url(/media/home_icon.png);
 }
+
+ul#navigation .blog a      {
+    background-image: url(/media/blog_icon.png);
+}
+
 ul#navigation .about a      {
-    background-image: url(http://www.placehold.it/59X16http://www.placehold.it/59X16);
+    background-image: url(/media/about_icon.png);
 }
+
 ul#navigation .contact a    {
-    background-image: url(http://www.placehold.it/59X16);
+    background-image: url(/media/contact_icon.png);
 }
 
 /* Site footer */
