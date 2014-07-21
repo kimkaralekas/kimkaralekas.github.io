@@ -6,7 +6,9 @@
   padding: 0;
 }
 
-html, body { height: 100%; }
+html, body { 
+  height: 100%; 
+}
 
 body {
   font-family: 'Open Sans', sans-serif;
@@ -35,6 +37,7 @@ a:hover   {
 a:active  {
   color:yellow;
 }
+
 
 
 /* Utility - keeps post excerpts centered*/
