@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Here's my about page!
+<h1>Here's my about page!</h1>
 
 
 
