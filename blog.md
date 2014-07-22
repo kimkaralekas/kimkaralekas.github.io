@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Here's my contact page!
+Here's my blog page!
