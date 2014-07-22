@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 
-I’m surviving. w00t w00t
+I am surviving. w00t w00t
 
 
 
